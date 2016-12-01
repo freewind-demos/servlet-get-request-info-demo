@@ -1,5 +1,8 @@
-Simple JSP pages demo without `web.xml`
+Servlet Demo
+============
+
+A simplest servlet demo.
 
 ```
-gradle jettyRun
+mvn jetty:run
 ```
